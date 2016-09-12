@@ -1,0 +1,19 @@
+{
+    "classes": [
+        {
+            "grade":"11",
+            "subject": "E",
+            "classID": "f11e"
+        },
+        {
+            "grade":"5",
+            "subject": "Physics",
+            "classID": "c5p"
+        },
+        {
+            "grade":"10",
+            "subject": "Physics",
+            "classID": "c10p"
+        }
+    ]
+}

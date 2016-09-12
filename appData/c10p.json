@@ -1,0 +1,100 @@
+{
+    "grade": 10,
+
+    "section":"Physics",
+
+    "students": [
+        {
+            "name":"Joe Doe",
+            "present": false
+        },
+        {
+            "name":"Jonny Appleseed",
+            "present": false
+        },
+        {
+            "name":"John Doe",
+            "present": true
+        },
+        {
+            "name":"Jonny Appleseed",
+            "present": true
+        },
+        {
+            "name":"John Doe",
+            "present": true
+        },
+        {
+            "name":"Jonny Appleseed",
+            "present": false
+        },
+        {
+            "name":"John Doe",
+            "present": false
+        },
+        {
+            "name":"Jonny Appleseed",
+            "present": false
+        },
+        {
+            "name":"John Doe",
+            "present": false
+        },
+        {
+            "name":"Jonny Appleseed",
+            "present": false
+        },
+        {
+            "name":"John Doe",
+            "present": false
+        },
+        {
+            "name":"Jonny Appleseed",
+            "present": false
+        },
+        {
+            "name":"John Doe",
+            "present": false
+        },
+        {
+            "name":"Jonny Appleseed",
+            "present": false
+        },
+        {
+            "name":"John Doe",
+            "present": false
+        },
+        {
+            "name":"Jonny Appleseed",
+            "present": false
+        },
+        {
+            "name":"John Doe",
+            "present": false
+        },
+        {
+            "name":"Jonny Appleseed",
+            "present": false
+        },
+        {
+            "name":"John Doe",
+            "present": false
+        },
+        {
+            "name":"Jonny Appleseed",
+            "present": false
+        },
+        {
+            "name":"John Doe",
+            "present": false
+        },
+        {
+            "name":"Jonny Appleseed",
+            "present": false
+        },
+        {
+            "name":"John Doe",
+            "present": false
+        }
+    ]
+}
